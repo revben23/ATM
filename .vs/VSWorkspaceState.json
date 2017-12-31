@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutomatedTellerMachine",
+    "\\AutomatedTellerMachine\\App_Data"
   ],
+  "SelectedNode": "\\AutomatedTellerMachine\\Global.asax.cs",
   "PreviewInSolutionExplorer": false
 }
