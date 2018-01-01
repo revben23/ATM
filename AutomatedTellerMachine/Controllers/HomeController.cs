@@ -30,7 +30,7 @@ namespace AutomatedTellerMachine.Controllers
         // GET /home/about        
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+        
 
             return View();
         }
